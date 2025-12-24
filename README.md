@@ -8,10 +8,10 @@ Esse projeto teve como objetivo desenvolver um sistema de rotina de alta perfoma
   # Ferramentas utilizadas
   - Lovable
 
-    # Link do projeto:
+  # Link do projeto:
     https://purpose-quest-forge.lovable.app/
 
-    # Conclusão:
+  # Conclusão:
     Esse projeto foi uma ótima experiência para aprimorar as minhas habilidades em inteligência artificial e engenharia de prompt, foi uma ideia com bastante potencial de mercado que pode acabar se expandindo para um projeto de empreendedorismo.
 
 
